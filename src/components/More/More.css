@@ -1,0 +1,18 @@
+.appImg{
+    height: 700px;
+    margin-top: -320px;
+}
+
+.try-now{
+    background-color: #d04949c9;
+    border-radius: 15px;
+    padding: 8px 30px;
+    cursor: pointer;
+    color: #fff;    
+}
+
+.try-now:hover{
+    background-color: #D04949;
+    box-shadow: 2px 4px 6px#ddd;
+    margin-bottom: 20px;
+}
